@@ -1,10 +1,8 @@
 -- =====================================================================
 -- Laboratory Work #3: DML Operations
--- File:  lab3_advanced_dml.sql
--- Student: ______________________   Student ID: ______________
--- DBMS:  PostgreSQL (run with psql:  psql -U postgres -f lab3_advanced_dml.sql)
--- The script is meant to be run top-to-bottom; later tasks rely on the
--- data left by earlier ones.
+-
+-- Student:Zhambyl_Kuanysh   Student ID: 25B031250
+
 -- =====================================================================
 
 -- ---------------------------------------------------------------------
