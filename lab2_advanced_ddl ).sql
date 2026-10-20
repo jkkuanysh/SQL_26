@@ -1,14 +1,7 @@
 -- =====================================================================
 -- Laboratory Work #2: Advanced DDL Operations
--- Topic: Database Creation, Table Management & Data Types
--- File:  lab2_advanced_ddl.sql
--- Student: ______________________   Student ID: ______________
--- DBMS:  PostgreSQL (run with psql:  psql -U postgres -f lab2_advanced_ddl.sql)
--- =====================================================================
 
--- ---------------------------------------------------------------------
--- PART 1: MULTIPLE DATABASE MANAGEMENT
--- ---------------------------------------------------------------------
+
 
 -- Task 1.1: Database Creation with Parameters
 
