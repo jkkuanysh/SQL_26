@@ -1,15 +1,9 @@
 -- =====================================================================
--- Database Constraints - Laboratory Work
--- File:  lab5_constraints.sql
--- Student: ______________________   Student ID: ______________
--- DBMS:  PostgreSQL (run with psql:  psql -U postgres -f lab5_constraints.sql)
---
--- How to read this file:
---   * Valid INSERTs are executed normally.
---   * INSERTs that are SUPPOSED to fail are commented out (as required),
---     each followed by the exact error PostgreSQL returned when it was run,
---     and an explanation of which constraint was violated and why.
---   * To re-test a failing case, uncomment it and run it on its own.
+
+-- Student: Zhambyl Kuanysh   Student ID: 25B031250
+
+
+
 -- =====================================================================
 
 DROP DATABASE IF EXISTS constraints_lab;
